@@ -1,4 +1,4 @@
 # BRACU_CSE220_Lab
-Algorithms Lab. PYTHON
+Data Structures Lab. PYTHON
 <br>
 Author- Zubaer Niloy
